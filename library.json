@@ -1,0 +1,19 @@
+{
+  "name": "sensorsap",
+  "version": "1.0.0",
+  "keywords": "Sensors, DHT, PIR, motion",
+  "description": "Control sensors.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrepalma/smarthome-sensorsap"
+  },
+  "authors": [
+    {
+      "name": "Andre Palma,
+      "email": "reguila2@gmail.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}

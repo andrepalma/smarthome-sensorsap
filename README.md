@@ -1,1 +1,2 @@
-# smarthome-sensorsap
+# Shutters controller 
+
